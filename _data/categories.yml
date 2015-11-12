@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: linear_algebra
+  name: linear algebra
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: machine_learning
+  name: machine learning
