@@ -3,7 +3,7 @@ layout: post
 title:  "Starting Machine Learning"
 subtitle: "oh boy!"
 date:   2015-11-11
-categories: [machine learning]
+categories: [machine_learning]
 ---
 
 I just enrolled in Coursera's Machine Learning course taught by Andrew Ng.  The class doesn't start until
