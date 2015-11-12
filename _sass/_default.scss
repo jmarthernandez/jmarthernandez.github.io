@@ -65,7 +65,7 @@ strong {
 
 /* =Header */
 .wrapper {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 100px auto;
 }
 
@@ -305,7 +305,17 @@ strong {
     }
 }
 
+table { 
+    margin-left: auto;
+    margin-right: auto;
+}
+
 td, th {
     text-align: center;
     padding: 10px;
+}
+
+ul, li {
+    font-size: 20px;
+    line-height: 32px;
 }
