@@ -1,0 +1,25 @@
+{
+  "name": "jmarthernandez",
+  "version": "1.0.0",
+  "description": "a blog about nothing",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarthernandez/jmarthernandez.github.io.git"
+  },
+  "author": "Justin Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmarthernandez/jmarthernandez.github.io/issues"
+  },
+  "homepage": "https://github.com/jmarthernandez/jmarthernandez.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.5.1",
+    "lodash": "^3.10.1"
+  }
+}
