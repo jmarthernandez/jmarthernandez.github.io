@@ -13,7 +13,7 @@ ___
 
 # Elimination
 
-Elimnation is used for solving systems of equations.  
+Elimination is used for solving systems of equations.  
 
 The following system can be represented by matrices.
 
