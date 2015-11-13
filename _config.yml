@@ -3,6 +3,8 @@ title: Justin Hernandez
 description: >
   A simple blog about whatever I am learning
 
+exclude: [node_modules, gulpfile.js]
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jmarthernandez.github.io" # the base hostname
 author:
