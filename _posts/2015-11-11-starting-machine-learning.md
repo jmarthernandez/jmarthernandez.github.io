@@ -19,7 +19,7 @@ learning is left to learn on its own.  There are two types of problems we learne
 
 ## Regression
 Supervised learning is an algorithm that is taught with the right answers from the start.
-For example, the if we were given housing data that contained prices and square footage we would
+For example, if we were given housing data that contained prices and square footage we would
 use that data to train our algorithm.
 
 This is considered a regression problem because we are trying to fit the algorithm to a continuous value - housing price.
@@ -27,7 +27,7 @@ This differs from discrete because we don't have clear boundaries in the answer.
 different ways.  We could use a linear regression, quadratic, or many other modeling techniques.
 
 ## Discrete
-Discrete learning problems are also taught but they have a different type of data they tackle.  The housing price example was 
+Discrete learning problems are also taught but they tackle a different type of data.  The housing price example was 
 a regression problem but if we changed the question to "Will this house get sold?", this would be a discrete problem.  The difference
 being that sold is a discrete value.  It is either sold or it isn't.  Housing prices can be an number making the possibilities much
 more vast.
@@ -45,7 +45,7 @@ Examples of Unsupervised Machine Learning
 - Market segmentations from a group of customers.  Which customers are similar
 - Google news grouping like news stories together
 
-There are examples of clustering.  An unsupervised algorithm takes data and groups it into meaningful clusters.
+These are examples of clustering.  An unsupervised algorithm takes data and groups it into meaningful clusters.
 
 # Linear Regression with One Variable (Univariate)
 
@@ -93,5 +93,5 @@ we have found our most accurate $$\theta$$ values.
 
 In the plot above our ideal values for $$\theta_0$$ and $$\theta_1x$$ are where $$J(\theta_0,\theta_1)$$ is at a minimum.
 
-In my next post about this course I will write about Gradient Descent which is a way to traverse Cost plots to find
+In my next post I will write about Gradient Descent, which is a way to traverse Cost plots to find
 the minimum.
