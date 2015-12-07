@@ -89,14 +89,14 @@ a 3-d representation. The concepts are still the same.
 
 The learning rate is a constant that determines how large of a jump our descent takes.  A large learning rate causes a large jump in our $$\theta$$ values.
 
-![Descent Example 1](http://localhost:4000/assets/images/learning_rate_example_1.png "Descent Example 1")
+![Descent Example 1]({{site.url}}/assets/images/learning_rate_example_1.png "Descent Example 1")
 
 Each asterisk represents a step in the gradient descent.  Above we stated that the learning rate determined
 the size of the step.  The size of the step is directly correlated to the slop at that point.
 We see as the slope gets smaller the steps get smaller.  Our $$\alpha$$ is being multiplied
 by a smaller slope causing a smaller step.
 
-![Descent Example 2](http://localhost:4000/assets/images/learning_rate_example_2.png "Descent Example 2")
+![Descent Example 2]({{site.url}}/assets/images/learning_rate_example_2.png "Descent Example 2")
 
 Here the jump is auto-corrected if it oversteps the minimum.  At first glance it might not
 be clear why.  On the right the slope is negative so the when multiplied by $$\alpha$$ it steps right.
