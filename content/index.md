@@ -1,6 +1,5 @@
 ---
 title: Welcome to Quartz
 ---
-
-This is a blank Quartz installation.
+Testing out quartz for Github pages
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
